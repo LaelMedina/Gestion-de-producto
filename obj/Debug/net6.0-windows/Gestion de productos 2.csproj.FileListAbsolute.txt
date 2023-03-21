@@ -1,0 +1,36 @@
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\bin\Debug\net6.0-windows\Gestion de productos 2.exe
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\bin\Debug\net6.0-windows\Gestion de productos 2.deps.json
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\bin\Debug\net6.0-windows\Gestion de productos 2.runtimeconfig.json
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\bin\Debug\net6.0-windows\Gestion de productos 2.dll
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\bin\Debug\net6.0-windows\Gestion de productos 2.pdb
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\Gestion de productos 2.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\Gestion de productos 2.csproj.GenerateResource.cache
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\Gestion de productos 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\Gestion de productos 2.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\Gestion de productos 2.AssemblyInfo.cs
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\Gestion de productos 2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\Gestion de productos 2.dll
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\refint\Gestion de productos 2.dll
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\Gestion de productos 2.pdb
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\Gestion de productos 2.genruntimeconfig.cache
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\ref\Gestion de productos 2.dll
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\Gestion_de_productos_2.MainForm.resources
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos 2\obj\Debug\net6.0-windows\Gestion_de_productos_2.Properties.Resources.resources
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\bin\Debug\net6.0-windows\Gestion de productos 2.exe
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\bin\Debug\net6.0-windows\Gestion de productos 2.deps.json
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\bin\Debug\net6.0-windows\Gestion de productos 2.runtimeconfig.json
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\bin\Debug\net6.0-windows\Gestion de productos 2.dll
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\bin\Debug\net6.0-windows\Gestion de productos 2.pdb
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\Gestion de productos 2.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\Gestion_de_productos_2.MainForm.resources
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\Gestion_de_productos_2.Properties.Resources.resources
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\Gestion de productos 2.csproj.GenerateResource.cache
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\Gestion de productos 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\Gestion de productos 2.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\Gestion de productos 2.AssemblyInfo.cs
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\Gestion de productos 2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\Gestion de productos 2.dll
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\refint\Gestion de productos 2.dll
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\Gestion de productos 2.pdb
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\Gestion de productos 2.genruntimeconfig.cache
+C:\Users\user1\Documents\Universidad\Clases universidad 7mo semestre\Programacion Visual II\Week 1\Gestion de productos\obj\Debug\net6.0-windows\ref\Gestion de productos 2.dll
